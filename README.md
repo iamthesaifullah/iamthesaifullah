@@ -2,7 +2,7 @@
 - Full Stack Engineer
 - 🚀 Passionate about Web3, Laravel, and Cybersecurity | Full Stack Engineer at Adlunam Inc.
 - 👨‍💻 About Me
-- 🔹 Results-driven Full Stack Engineer with 2+ years of professional experience and 4+ years of project-based experience.
+- 🔹 Results-driven Full Stack Engineer (Backend Focused) with 5+ years of professional experience.
 - 🔹 Skilled in Laravel, PHP, JavaScript, Web3 integration, API development, and server security.
 - 🔹 Developed Adastra, a Web3 platform with wallet integration and gamification features.
 - 🔹 Expert in penetration testing, malware removal, and server optimization.
