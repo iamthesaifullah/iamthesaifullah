@@ -10,9 +10,9 @@
 
 - 🛠 Tech Stack
 - Frontend: HTML, CSS, Bootstrap, TailwindCSS, JavaScript, React
-- Backend: PHP, Laravel, Python Flask, MySQL, Java
+- Backend: PHP, Laravel, Python Flask, MySQL, Java, Next. Js, TypeScript
 - Web3: Blockchain APIs, Wallet Integration, Smart Contracts
-- DevOps: cPanel, Git, SSL, DNS, AWS, Server Optimization
+- DevOps: cPanel, Git, SSL, DNS, AWS, Server Optimization, Docker, Kubernetes
 - Security: Pentesting, Malware Removal, Load Balancing
 
 💡 "Code, Coffee, Repeat - The Developer’s Mantra!" ☕💻
